@@ -1,3 +1,4 @@
 lol
+lol in slave
 print(@Hello master)
 Master
